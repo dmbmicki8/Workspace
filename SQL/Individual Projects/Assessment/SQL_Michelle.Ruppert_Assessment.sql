@@ -5,7 +5,7 @@ SELECT COUNT(grade_id), grade.name
 FROM author
 	JOIN grade
 	ON author.grade_id = grade.id	
-GROUP BY grade_id
+GROUP BY grade_id, grade.name
 
 --"count"	"name"
 --3288		"4th Grade"
