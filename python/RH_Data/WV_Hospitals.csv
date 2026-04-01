@@ -1,0 +1,56 @@
+"Facility ID","Facility Name",Address,City/Town,State,"ZIP Code",County/Parish,"Telephone Number","Hospital Type","Hospital Ownership","Emergency Services","Meets criteria for birthing friendly designation","Hospital overall rating"
+510001,"WEST VIRGINIA UNIVERSITY HOSPITALS, INC","MEDICAL CENTER DRIVE",MORGANTOWN,WV,26506,MONONGALIA,"(304) 598-4000","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,2
+510002,"CAMC GREENBRIER VALLEY MEDICAL CENTER, INC","1320 MAPLEWOOD AVENUE",RONCEVERTE,WV,24970,GREENBRIER,"(304) 647-4411","Acute Care Hospitals",Proprietary,Yes,Y,2
+510006,"UNITED HOSPITAL CENTER, INC","327 MEDICAL PARK DRIVE",BRIDGEPORT,WV,26330,HARRISON,"(681) 342-1000","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,4
+510007,"ST MARYS MEDICAL CENTER","2900 1ST AVENUE",HUNTINGTON,WV,25702,CABELL,"(304) 526-1234","Acute Care Hospitals","Voluntary non-profit - Church",Yes,,2
+510008,"BERKELEY MEDICAL CENTER","2500 HOSPITAL DRIVE",MARTINSBURG,WV,25401,BERKELEY,"(304) 264-1000","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,1
+510012,"RIVERS HEALTH","2520 VALLEY DRIVE","POINT PLEASANT",WV,25550,MASON,"(304) 675-4340","Acute Care Hospitals","Voluntary non-profit - Private",Yes,,1
+510013,"REYNOLDS MEMORIAL HOSPITAL","800 WHEELING AVE","GLEN DALE",WV,26038,MARSHALL,"(304) 843-3230","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,3
+510022,"CHARLESTON AREA MEDICAL CENTER","501 MORRIS STREET",CHARLESTON,WV,25301,KANAWHA,"(304) 388-5432","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,1
+510023,"WEIRTON MEDICAL CENTER, INC","601 COLLIERS WAY",WEIRTON,WV,26062,HANCOCK,"(304) 797-6000","Acute Care Hospitals","Government - Local",Yes,,2
+510024,"MON HEALTH MEDICAL CENTER","1200 JD ANDERSON DRIVE",MORGANTOWN,WV,26505,MONONGALIA,"(304) 598-1200","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,4
+510029,"THOMAS MEMORIAL HOSPITAL","4605 MACCORKLE AVENUE SW","SOUTH CHARLESTON",WV,25309,KANAWHA,"(304) 766-3600","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,"Not Available"
+51002F,"BECKLEY VA MEDICAL CENTER","200 VETERANS AVENUE",BECKLEY,WV,25801,RALEIGH,"(304) 255-2121","Acute Care - Veterans Administration","Veterans Health Administration",Yes,,5
+510030,"DAVIS MEDICAL CENTER","812 GORMAN AVENUE",ELKINS,WV,26241,RANDOLPH,"(304) 636-3300","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,3
+510038,"STONEWALL JACKSON MEMORIAL HOSPITAL","230 HOSPITAL PLAZA",WESTON,WV,26452,LEWIS,"(304) 269-8000","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,2
+51003F,"CLARKSBURG VA MEDICAL CENTER","1 MEDICAL CENTER DRIVE",CLARKSBURG,WV,26301,HARRISON,"(304) 623-3461","Acute Care - Veterans Administration","Veterans Health Administration",Yes,,4
+510046,"PRINCETON COMMUNITY HOSPITAL ASSN INC","122 12TH STREET",PRINCETON,WV,24740,MERCER,"(304) 487-7000","Acute Care Hospitals","Government - Local",Yes,Y,1
+510048,"LOGAN REGIONAL MEDICAL CENTER","20 HOSPITAL DRIVE",LOGAN,WV,25601,LOGAN,"(304) 831-1101","Acute Care Hospitals",Proprietary,Yes,Y,4
+51004F,"HUNTINGTON VA MEDICAL CENTER","1540 SPRING VALLEY ROAD",HUNTINGTON,WV,25704,WAYNE,"(304) 429-0241","Acute Care - Veterans Administration","Veterans Health Administration",Yes,,5
+510050,"WHEELING HOSPITAL, INC","1 MEDICAL PARK",WHEELING,WV,26003,OHIO,"(304) 243-3000","Acute Care Hospitals","Voluntary non-profit - Church",Yes,Y,1
+510055,"CABELL HUNTINGTON HOSPITAL, INC","1340 HAL GREER BOULEVARD",HUNTINGTON,WV,25701,CABELL,"(304) 526-2000","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,2
+510058,"CAMDEN CLARK MEDICAL CENTER","800 GARFIELD AVE",PARKERSBURG,WV,26101,WOOD,"(304) 424-2111","Acute Care Hospitals","Voluntary non-profit - Private",Yes,Y,3
+51005F,"MARTINSBURG VA MEDICAL CENTER","510 BUTLER AVE.",MARTINSBURG,WV,25405,BERKELEY,"(304) 263-0811","Acute Care - Veterans Administration","Veterans Health Administration",Yes,,4
+510062,"BECKLEY ARH HOSPITAL","306 STANAFORD ROAD",BECKLEY,WV,25801,RALEIGH,"(304) 255-3000","Acute Care Hospitals","Voluntary non-profit - Private",Yes,,1
+510070,"RALEIGH GENERAL HOSPITAL","1710 HARPER ROAD",BECKLEY,WV,25801,RALEIGH,"(304) 256-4100","Acute Care Hospitals",Proprietary,Yes,Y,1
+510072,"WETZEL COUNTY HOSPITAL","#3 EAST BENJAMIN DRIVE","NEW MARTINSVILLE",WV,26155,WETZEL,"(304) 455-8000","Acute Care Hospitals","Government - Local",Yes,,"Not Available"
+510086,"WELCH COMMUNITY HOSPITAL","454 MCDOWELL STREET",WELCH,WV,24801,"MC DOWELL","(304) 436-8461","Acute Care Hospitals","Government - State",Yes,,"Not Available"
+510091,"CAMC CHARLESTON SURGICAL HOSPITAL","1306 KANAWHA BOULEVARD EAST",CHARLESTON,WV,25301,KANAWHA,"(304) 343-4371","Acute Care Hospitals",Physician,No,,"Not Available"
+510093,"MON HEALTH MARION","140 MIDDLETOWN LOOP",WHITEHALL,WV,26554,MARION,"(304) 333-1150","Acute Care Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+510094,"WILLIAMSON MEMORIAL INC","859 ALDERSON ST",WILLIAMSON,WV,25661,MINGO,"(304) 235-2500","Acute Care Hospitals","Voluntary non-profit - Private",No,,"Not Available"
+511300,"BROADDUS HOSPITAL ASSOCIATION, INC","1 HEALTHCARE DRIVE MANSFIELD HILL",PHILIPPI,WV,26416,BARBOUR,"(304) 457-1760","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+511301,"WEBSTER MEMORIAL HOSPITAL","125 DIANA DRIVE","WEBSTER SPRINGS",WV,26288,WEBSTER,"(304) 847-5682","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+511303,"MINNIE HAMILTON HEALTH SYSTEM","186 HOSPITAL DRIVE",GRANTSVILLE,WV,26147,CALHOUN,"(304) 354-9244","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+511304,"SISTERSVILLE GENERAL HOSPITAL","314 SOUTH WELLS STREET",SISTERSVILLE,WV,26175,TYLER,"(304) 652-2611","Critical Access Hospitals",Proprietary,Yes,,"Not Available"
+511306,"ROANE GENERAL HOSPITAL","200 HOSPITAL DRIVE",SPENCER,WV,25276,ROANE,"(304) 927-4444","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+511307,"GRAFTON CITY HOSPITAL, INC","1 HOSPITAL PLAZA",GRAFTON,WV,26354,TAYLOR,"(304) 265-0400","Critical Access Hospitals","Government - Local",Yes,,"Not Available"
+511308,"BRAXTON COUNTY MEMORIAL HOSPITAL, INC","100 HOYLMAN DRIVE",GASSAWAY,WV,26624,BRAXTON,"(304) 364-5156","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+511309,"VALLEY HEALTH WAR MEMORIAL HOSPITAL","1 HEALTHY WAY","BERKELEY SPRINGS",WV,25411,MORGAN,"(304) 258-1234","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+511310,"SUMMERS COUNTY ARH HOSPITAL","115 SUMMERS HOSPITAL ROAD",HINTON,WV,25951,SUMMERS,"(304) 466-1000","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+511311,"HAMPSHIRE MEMORIAL HOSPITAL","363 SUNRISE BOULEVARD",ROMNEY,WV,26757,HAMPSHIRE,"(304) 822-4561","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+511312,"PRESTON MEMORIAL HOSPITAL","150 MEMORIAL DRIVE",KINGWOOD,WV,26537,PRESTON,"(304) 329-1400","Critical Access Hospitals",Proprietary,Yes,,"Not Available"
+511313,"BOONE MEMORIAL HOSPITAL","701 MADISON AVENUE",MADISON,WV,25130,BOONE,"(304) 369-1230","Critical Access Hospitals","Government - Local",Yes,,"Not Available"
+511314,"POCAHONTAS MEMORIAL HOSPITAL","150 DUNCAN ROAD",BUCKEYE,WV,24924,POCAHONTAS,"(304) 799-7400","Critical Access Hospitals","Government - Local",Yes,,"Not Available"
+511315,"POTOMAC VALLEY HOSPITAL","100 PIN OAK LANE",KEYSER,WV,26726,MINERAL,"(304) 597-3500","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,4
+511316,"GRANT MEMORIAL HOSPITAL","117 HOSPITAL DRIVE",PETERSBURG,WV,26847,GRANT,"(304) 257-1026","Critical Access Hospitals","Voluntary non-profit - Other",Yes,Y,4
+511317,"CAMC PLATEAU MEDICAL CENTER, INC","430 MAIN STREET, WEST","OAK HILL",WV,25901,FAYETTE,"(304) 469-8600","Critical Access Hospitals",Proprietary,Yes,Y,"Not Available"
+511318,"MONTGOMERY GENERAL HOSPITAL","401 SIXTH AVENUE",MONTGOMERY,WV,25136,FAYETTE,"(304) 442-5151","Critical Access Hospitals","Voluntary non-profit - Other",Yes,,"Not Available"
+511319,"JEFFERSON MEDICAL CENTER","300 SOUTH PRESTON STREET",RANSON,WV,25438,JEFFERSON,"(304) 728-1600","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,2
+511320,"JACKSON GENERAL HOSPITAL","122 PINNELL ST",RIPLEY,WV,25271,JACKSON,"(304) 372-2731","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,3
+511321,"ST JOSEPH'S HOSPITAL OF BUCKHANNON, INC","1 AMALIA DRIVE",BUCKHANNON,WV,26201,UPSHUR,"(304) 472-2000","Critical Access Hospitals","Voluntary non-profit - Private",Yes,Y,"Not Available"
+511322,"SUMMERSVILLE REGIONAL MEDICAL CENTER","400 FAIRVIEW HEIGHTS ROAD",SUMMERSVILLE,WV,26651,NICHOLAS,"(304) 872-2891","Critical Access Hospitals","Voluntary non-profit - Private",Yes,,"Not Available"
+514001,"HIGHLAND HOSPITAL","300 56TH STREET, SE",CHARLESTON,WV,25304,KANAWHA,"(304) 926-1600",Psychiatric,"Voluntary non-profit - Private",No,,"Not Available"
+514008,"RIVER PARK HOSPITAL","1230 SIXTH AVENUE",HUNTINGTON,WV,25701,CABELL,"(304) 526-9100",Psychiatric,Proprietary,No,,"Not Available"
+514009,"MILDRED MITCHELL-BATEMAN HOSPITAL","1530 NORWAY AVENUE",HUNTINGTON,WV,25705,CABELL,"(304) 525-7801",Psychiatric,"Government - State",No,,"Not Available"
+514011,"HIGHLAND-CLARKSBURG HOSPITAL, INC","3 HOSPITAL PLAZA",CLARKSBURG,WV,26301,HARRISON,"(304) 969-3100",Psychiatric,"Voluntary non-profit - Private",Yes,,"Not Available"
+514012,"WILLIAM R SHARPE, JR HOSPITAL","936 SHARPE HOSPITAL ROAD",WESTON,WV,26452,LEWIS,"(304) 269-1210",Psychiatric,"Government - State",No,,"Not Available"
